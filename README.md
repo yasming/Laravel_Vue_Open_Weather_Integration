@@ -4,7 +4,7 @@ This is a project to show weather for each user in the database based in the lat
 
 ## To run the local dev environment:
 
-### API
+## API
 - Navigate to `/api` folder
 - Ensure version docker installed is active on host
 - Copy .env.example: `cp .env.example .env`
@@ -19,7 +19,7 @@ This is a project to show weather for each user in the database based in the lat
   - Run queue: `php artisan queue:listen`
 - Visit api: `http://localhost`
 
-### Frontend
+## Frontend
 - Navigate to `/frontend` folder
 - Ensure nodejs v18 is active on host
 - Install javascript dependencies: `npm install`
